@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.imageclassification.app-mergeDebugResources-16:/values-land/values-land.xml",
+            "outputFile": "com.example.imageclassification.app-mergeDebugResources-29:/values-land/values-land.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-3\\916c74cf323245c9a8ea2346158222d2\\transformed\\appcompat-1.2.0\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-3\\0bd5ef216b7263ab9940b61aa8cc455d\\transformed\\appcompat-1.6.1\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-3\\8faf4ea58de8cd64ba0726f1cb064117\\transformed\\material-1.2.1\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-3\\b78f1abaa8fbf7b6ec4e94e423fb1425\\transformed\\material-1.2.1\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,24,30",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
